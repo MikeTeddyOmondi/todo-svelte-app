@@ -1,6 +1,6 @@
 # Building a Todo App using SvelteKit Made Easy
 
-![](file:///C:/Users/ADMIN/AppData/Roaming/marktext/images/2022-02-10-09-51-50-image.png)
+![](./todo-app.png)
 
 Here we create an application with simple functionality of creating, reading, updating and deleting a completed task.
 
