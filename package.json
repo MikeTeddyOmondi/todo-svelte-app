@@ -24,7 +24,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"axios": "^0.25.0",
+		"axios": "^1.6.4",
 		"localbase": "^0.7.5",
 		"uuid": "^8.3.2"
 	}
